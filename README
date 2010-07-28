@@ -1,0 +1,55 @@
+                 ClearWorks(TM) Enterprise Server
+                       version 2.4 
+
+   ClearWorks is a professional Lean R & D life-cycle management tool,
+it release the power of Scrum, XP and Kanban for agile process management.
+This cdrom is a green run-time cd,can run directly after uncompress,not need install. 
+
+0, System requires: Windows 2000/XP/Vista,Windows 2003 Server or Windows 2008 Server.
+
+1, Uncompress clearworks_ee_win20.rar under the root of D:
+   *** Note: must under the root of D: ! 
+
+2, Enter D:\sevensoft,change the default language setting in clearworks.ini as bellow,
+   defualt = en
+   ;defualt = zh_CN
+   this setting will change chinese to english for user interface.
+
+3, Enter D:\sevensoft, click apache_start.bat and mysql_start.bat,
+   start Web server and Mysql server.
+
+4, Start your browser(IE, FireFox etc), enter:
+   http://localhost/clearworks/index.php
+   login name: administrator password: passwd
+   Instant Message Module's username: admin Password: 123456 room1:123
+
+5, Shutdown servers,
+   execute apache_stop.bat and mysql_stop.bat under D:\sevensoft.
+
+** Important Note: 
+   For reduce the size of download file,this package is not included full run time parts of this product. The embedded SVN server,workflow chart generate program(Graphviz) and source code operation online function packages are not included,because these files is too large are not suitable for download,please contact us if you need it. 
+   In addition, the font files required by chart display are not included too, you can copy the font files by youself:   
+   Font Name: Arial(TrueType)             File Name: ARIAL.TTF
+   Font Name: Arial Bold(TrueType)        File Name: ARIALBD.TTF
+   Font Name: SimHei(TrueType)            File Name: simhei.ttf
+   Font Name: SimSun & NSimSun (TrueType) File Name: simsun.ttc
+
+   Steps: 
+   1) Control Panel£­>Font->File Name->Select the font files£­>click the "Edit" menu on top of the Resource Explorer of Windows,
+   2) Go to the directory of D:\sevensoft\clearworks\lib\jpgraph\fonts, and select the "Paste" menu of the Resource Explorer of Windows.
+
+6, User manual: 
+   English:http://www.sevenuc.com/download/ClearWorks_Enterprise_Edition_User_Manual_en.rar
+   Chinese:http://www.sevenuc.com/download/ClearWorks_Enterprise_Edition_User_Manual.rar
+
+7, Consultation:
+   Web site: www.sevenuc.com
+   Mobile: +86-13980081059
+           +86-13338196699
+   E-Mail: sales@sevenuc.com
+   
+---------------------------------------------------------------------
+
+Copyright (c) 2009 Sevenuc Software Development Corporation. 
+
+
