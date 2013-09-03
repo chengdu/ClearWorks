@@ -1,8 +1,7 @@
                  ClearWorks(TM) Enterprise Server
                        version 2.4 
 
-   ClearWorks is a professional Lean R & D life-cycle management tool,
-it release the power of Scrum, XP and Kanban for agile process management.
+   ClearWorks is a professional Lean R & D life-cycle management tool,it release the power of Scrum, XP and Kanban for agile process management.
 This cdrom is a green run-time cd,can run directly after uncompress,not need install. 
 
 0, System requires: Windows 2000/XP/Vista,Windows 2003 Server or Windows 2008 Server.
@@ -19,7 +18,7 @@ This cdrom is a green run-time cd,can run directly after uncompress,not need ins
    start Web server and Mysql server.
 
 4, Start your browser(IE, FireFox etc), enter:
-   http://localhost/clearworks/index.php
+   http://localhost/clearworks/index.html
    login name: administrator password: passwd
    Instant Message Module's username: admin Password: 123456 room1:123
 
@@ -35,18 +34,19 @@ This cdrom is a green run-time cd,can run directly after uncompress,not need ins
    Font Name: SimSun & NSimSun (TrueType) File Name: simsun.ttc
 
    Steps: 
-   1) Control Panel£­>Font->File Name->Select the font files£­>click the "Edit" menu on top of the Resource Explorer of Windows,
+   1) Control Panelï¿½ï¿½>Font->File Name->Select the font filesï¿½ï¿½>click the "Edit" menu on top of the Resource Explorer of Windows,
    2) Go to the directory of D:\sevensoft\clearworks\lib\jpgraph\fonts, and select the "Paste" menu of the Resource Explorer of Windows.
 
 6, User manual: 
-   English:http://www.sevenuc.com/download/ClearWorks_Enterprise_Edition_User_Manual_en.rar
-   Chinese:http://www.sevenuc.com/download/ClearWorks_Enterprise_Edition_User_Manual.rar
-
+   QuickStart: http://clearworks.googlecode.com/files/ClearWorks_Enterprise_Edition_Quick_Start.pdf
+   QuickStart(ä¸­æ–‡): http://clearworks.googlecode.com/files/ClearWorks_QuickStart.pdf
+   English: http://clearworks.googlecode.com/files/ClearWorks_Enterprise_Edition_User_Manual_en.chm
+   Chinese(ä¸­æ–‡): http://clearworks.googlecode.com/files/ClearWorks_Enterprise_Edition_User_Manual.chm
+   More Info: http://code.google.com/p/clearworks/
+   
 7, Consultation:
    Web site: www.sevenuc.com
-   Mobile: +86-13980081059
-           +86-13338196699
-   E-Mail: sales@sevenuc.com
+   E-Mail: henry@sevenuc.com
    
 ---------------------------------------------------------------------
 
