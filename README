@@ -17,7 +17,7 @@ STEPS:
 2, Enter D:\sevensoft, change the default language settings in clearworks.ini as bellow,
    defualt = en
    ;defualt = zh_CN
-   this setting will change UI localization.
+   the settings will change the UI localization.
 
 3, Enter D:\sevensoft, click apache_start.bat and mysql_start.bat,
    start Web server and Mysql server.
@@ -25,13 +25,13 @@ STEPS:
 4, Start your browser(IE, FireFox etc), enter:
    http://localhost/clearworks/index.html
    login name: administrator password: passwd
-   Instant Message Module's username: admin Password: 123456 room1:123
+   Instant Message, username: admin Password: 123456 room1:123
 
 5, Shutdown servers,
    execute apache_stop.bat and mysql_stop.bat.
 
 ** Important Note: 
-   For reduce the size of download files, this package does not includ the "full runtime" of this software, including the embedded SVN server, workflow chart generate program (Graphviz) and the package that support source code management operations in web browser, because these files are too large that unsuitable for downloading, please contact us for more info. 
+   To reduce the size of download files, this package does not include the "FULL RUNTIME" of this software, including the embedded SVN server, workflow chart generate program (Graphviz) and the module that support source code management operations in web browser, because these files are too large that unsuitable for downloading, please contact us for more info. 
    In addition, the font files required by chart display are not included too, you can copy the font files by youself:   
    Font Name: Arial(TrueType)             File Name: ARIAL.TTF
    Font Name: Arial Bold(TrueType)        File Name: ARIALBD.TTF
@@ -44,9 +44,9 @@ STEPS:
 
 USER MANUAL: 
 -------------
-   QuickStart: http://clearworks.googlecode.com/files/ClearWorks_Enterprise_Edition_Quick_Start.pdf
+   QuickStart (English): http://clearworks.googlecode.com/files/ClearWorks_Enterprise_Edition_Quick_Start.pdf
    QuickStart (Chinese): http://clearworks.googlecode.com/files/ClearWorks_QuickStart.pdf
-   English: http://clearworks.googlecode.com/files/ClearWorks_Enterprise_Edition_User_Manual_en.chm
+   English Manual: http://clearworks.googlecode.com/files/ClearWorks_Enterprise_Edition_User_Manual_en.chm
    Chinese Manual: http://clearworks.googlecode.com/files/ClearWorks_Enterprise_Edition_User_Manual.chm
    More Info: http://code.google.com/p/clearworks/
    
